@@ -1,4 +1,4 @@
-# SimpleEVSE-WiFi-adding-plug-temperature-sensor protection against burning marode mains jack at high currents (16A)  
+# SimpleEVSE-WiFi-adding-plug-temperature-sensor protection against burning marode mains jack at high currents (until 16A)  
 This lowers the charging current (pulswide) mains plug temperature dependet by use of the A0 A/D pin of D1 Mini
 Hardware is easy, glue a NTC temperature sensor  SEMI833ET (source: Reichelt Elektronik) inside mains plug.
 Change the mains cable by one with additional 2 wires for the temperature sensor. 
